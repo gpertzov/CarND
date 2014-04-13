@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<NeuroDriverCarFile version="2">
+	<Visuals>
+		<mesh>Models\ferarri.x</mesh>
+	</Visuals>		
+	<Physics>
+		<length>4.43</length>
+		<width>1.98</width>
+		<height>1.13</height>
+		<wheelRadius>0.35</wheelRadius>
+		<wheelMass>3</wheelMass>
+		<chassisOffset>0.4</chassisOffset>
+		<massOffset>0</massOffset>
+		<mass>400</mass>
+		<power>450</power>
+		<handling>0</handling>
+	</Physics>
+</NeuroDriverCarFile>
+
+
