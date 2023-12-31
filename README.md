@@ -4,7 +4,7 @@
 #### About
 
 CarND is a sample application which demonstrates how to implement
-simple car physics using the [Open Dynamics Engine library](www.ode.org).
+simple car physics using the [Open Dynamics Engine library](https://www.ode.org).
 
 CarND is part of the [NeuroDriver project](https://www.gpdev.net/NeuroDriver.html)
 
@@ -25,7 +25,7 @@ Without the written consent of the original author.
 
 #### Acknowledgements
 
-- Russell Smith for [ODE](https://www.ode.org/)
-- Lee Thomason for [TinyXML]([https://www.grinninglizard.com/tinyxml/](https://github.com/leethomason/tinyxml2))
+- Russell Smith for [ODE](https://www.ode.org)
+- Lee Thomason for [TinyXML](https://github.com/leethomason/tinyxml2)
 - Paul Nettle for [MMGR](https://www.paulnettle.com/)
 - Andrei Gradinar for his help [https://www.glplanet3d.newmail.ru/OpenDE/ode_demo.html](https://www.glplanet3d.newmail.ru/OpenDE/ode_demo.html)
